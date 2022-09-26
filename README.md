@@ -1,0 +1,2 @@
+# Force_Sensor_Code
+ This project resulted in an IEEE publication. The code was written to record force and angle data from hardware we had set up. The output of the force and angle data was programmed into light  output to see how much force was being applied by a medical laparoscopic grasper. I have updated this code over time to include more output capabilities such as a buzzer and a vibrating motor. This experience helped me apply my interest in coding to solve engineering problems by writing C++ code to record, calibrate and generate output in hardware.
